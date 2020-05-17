@@ -7,7 +7,7 @@ Author: FancyWP
 Author URI: https://fancywp.com/about/
 Version: 1.0.0
 Text Domain: starter-templates
-License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+License: GPL version 3 - http://www.gnu.org/licenses/gpl-3.0.html
 */
 
 /*
